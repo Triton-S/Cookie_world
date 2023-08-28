@@ -6,28 +6,29 @@ body {
 }
 #div1 {
     position: fixed;
-    right: 525px;
+    right: 500px;
     border: 3px solid yellow;
 }
 #box_left {
     height: 492px;
-    width: 525px;
+    width: 500px;
     text-align: center;
     padding: auto;
     color: whitesmoke;
     background-color: rgb(78, 23, 23);
     position:relative;
+    right: -10px;
     border: 8px solid yellow;
 }
 #box_right {
     height: 492px;
-    width: 520px;
+    width: 500px;
     text-align: center;
     padding: auto;
     color: whitesmoke;
     background-color: rgb(78, 23, 23);
     position: relative;
-    right: -1340px;
+    right: -1390px;
     bottom: 508px;
     
     border: 8px solid yellow;
