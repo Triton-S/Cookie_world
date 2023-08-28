@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    overflow: hidden;
+}
+#div1 {
+    position: fixed;
+    right: 525px;
+    border: 3px solid yellow;
+}
+#box_left {
+    height: 492px;
+    width: 525px;
+    text-align: center;
+    padding: auto;
+    color: whitesmoke;
+    background-color: rgb(78, 23, 23);
+    position:relative;
+    border: 8px solid yellow;
+}
+#box_right {
+    height: 492px;
+    width: 520px;
+    text-align: center;
+    padding: auto;
+    color: whitesmoke;
+    background-color: rgb(78, 23, 23);
+    position: relative;
+    right: -1340px;
+    bottom: 508px;
+    
+    border: 8px solid yellow;
+}
+#PICLEFT {
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    right: 0px;
+}
+#PICRIGHT {
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    right: 0px;
+}
